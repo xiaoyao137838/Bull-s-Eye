@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BullsEye
 //
-//  Created by Yuguan Li on 10/3/19.
-//  Copyright © 2019 Yuguan Li. All rights reserved.
+//  Created by Yibeibaoke on 10/3/19.
+//  Copyright © 2019 Yibeibaokei. All rights reserved.
 //
 
 import UIKit
